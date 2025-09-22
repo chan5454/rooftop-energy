@@ -1,6 +1,6 @@
 # rooftop-energy
 
-# Assestment created by rooftop energy for the full-stack developer role
+# Assessment created by rooftop energy for the full-stack developer role
 
 #to start the app just run:
 
